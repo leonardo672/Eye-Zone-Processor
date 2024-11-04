@@ -1,6 +1,6 @@
 # Eye-Zone-Processor
 
-Left Eye Step 1: Eye region coordinates (landmarks):
+### Left Eye Step 1: Eye region coordinates (landmarks):
  #### [[178 340]
  #### [223 314]
  #### [280 318]
@@ -20,13 +20,13 @@ min_x: 173, max_x: 328, min_y: 309, max_y: 376
 
 ![Left_Cropped_Eye](https://github.com/user-attachments/assets/7f209a13-4d88-4e93-b08a-904aa77e4578)
 
-Right Eye Step 1: Eye region coordinates (landmarks):
- [[542 359]
- [584 320]
- [642 315]
- [687 341]
- [648 368]
- [592 371]]
+### Right Eye Step 1: Eye region coordinates (landmarks):
+#### [[542 359]
+#### [584 320]
+#### [642 315]
+#### [687 341]
+#### [648 368]
+#### [592 371]]
 
  ![Right_Eye_Region_Coordinates](https://github.com/user-attachments/assets/b7f42e38-7804-4c47-930b-ca190d8d91ef)
 
