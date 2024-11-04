@@ -10,8 +10,6 @@ Left Eye Step 1: Eye region coordinates (landmarks):
 
 ![Left_Eye_Region_Coordinates](https://github.com/user-attachments/assets/d5f3a453-7359-4bb7-9f34-4a5c46ea16db)
 
-<img src="https://github.com/user-attachments/assets/f5d54ac7-b8ba-4279-b850-ac3473b3e775" alt="Left_Eye_Region_Coordinates" width="300" height="200">
-
 <div style="text-align: center;">
 <img src="https://github.com/user-attachments/assets/3156c511-1754-4799-ad6c-ea00c19ad44e" alt="Left_Eye_Region_Coordinates" width="300" height="200">
 </div>
