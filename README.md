@@ -16,7 +16,7 @@
 ![Left_Isolated_Eye](https://github.com/user-attachments/assets/11c24932-9533-4640-88b6-666445458e8a)
 
 ### Left Eye Step 3: Cropping Coordinates:
-### min_x: 173, max_x: 328, min_y: 309, max_y: 376
+#### min_x: 173, max_x: 328, min_y: 309, max_y: 376
 
 ![Left_Cropped_Eye](https://github.com/user-attachments/assets/7f209a13-4d88-4e93-b08a-904aa77e4578)
 
@@ -35,7 +35,7 @@
 ![Right_Isolated_Eye](https://github.com/user-attachments/assets/18b845a0-1f8d-41ac-ab05-25d31eaf6ea4)
 
 ### Right Eye Step 3: Cropping Coordinates:
-### min_x: 537, max_x: 692, min_y: 310, max_y: 376
+#### min_x: 537, max_x: 692, min_y: 310, max_y: 376
 
 ![Right_Cropped_Eye](https://github.com/user-attachments/assets/47bbad00-cb5e-417e-a0d9-339f4ea107a1)
 
