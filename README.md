@@ -9,7 +9,7 @@ Left Eye Step 1: Eye region coordinates (landmarks):
  [216 367]]
 
 
-<img src="[https://github.com/user-attachments/assets/f5d54ac7-b8ba-4279-b850-ac3473b3e775](https://github.com/user-attachments/assets/f5d54ac7-b8ba-4279-b850-ac3473b3e775)" alt="Left_Eye_Region_Coordinates" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/f5d54ac7-b8ba-4279-b850-ac3473b3e775" alt="Left_Eye_Region_Coordinates" width="300" height="200">
 
 ![left_eye](https://github.com/user-attachments/assets/3156c511-1754-4799-ad6c-ea00c19ad44e)
 
