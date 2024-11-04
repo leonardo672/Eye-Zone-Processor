@@ -1,18 +1,17 @@
 # Eye-Zone-Processor
 
 Left Eye Step 1: Eye region coordinates (landmarks):
- [[178 340]
- [223 314]
- [280 318]
- [323 359]
- [271 371]
- [216 367]]
+ #### [[178 340]
+ #### [223 314]
+ #### [280 318]
+ #### [323 359]
+ #### [271 371]
+ #### [216 367]]
 
 ![Left_Eye_Region_Coordinates](https://github.com/user-attachments/assets/d5f3a453-7359-4bb7-9f34-4a5c46ea16db)
 
-<div style="text-align: center;">
-<img src="https://github.com/user-attachments/assets/3156c511-1754-4799-ad6c-ea00c19ad44e" alt="Left_Eye_Region_Coordinates" width="300" height="200">
-</div>
+![Без названия](https://github.com/user-attachments/assets/cc77e55c-1647-4a95-8f7b-04abc414d124)
+
 
 ![Left_Isolated_Eye](https://github.com/user-attachments/assets/11c24932-9533-4640-88b6-666445458e8a)
 
@@ -31,7 +30,7 @@ Right Eye Step 1: Eye region coordinates (landmarks):
 
  ![Right_Eye_Region_Coordinates](https://github.com/user-attachments/assets/b7f42e38-7804-4c47-930b-ca190d8d91ef)
 
- ![right_eye](https://github.com/user-attachments/assets/33a1b7f1-3b7a-4c23-9bc5-81feb20805fd)
+![Без названия (1)](https://github.com/user-attachments/assets/1a2a7e5e-424a-471b-ae9c-39a2eb2f137a)
 
  ![Right_Isolated_Eye](https://github.com/user-attachments/assets/18b845a0-1f8d-41ac-ab05-25d31eaf6ea4)
 
